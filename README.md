@@ -11,7 +11,7 @@
 
 - 👯 I’m looking to collaborate on **E-commerce**
 
-- 🤝 I’m looking for help with **Quality**
+- 🤝 I’m looking for help with **Quality Assurance**
 
 - 📝 I regularly write articles on [https://www.linkedin.com/in/sameer-rege/](https://www.linkedin.com/in/sameer-rege/)
 
