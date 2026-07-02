@@ -7,9 +7,9 @@
 
 - 🔭 I’m currently working on **MLCHC**
 
-- 🌱 I’m currently learning **Playwright**
+- 🌱 I’m currently working on Test Automation **Playwright-JS/TS** And Git , CI-CD
 
-- 👯 I’m looking to collaborate on **E-commerce**
+- 👯 I’m looking to collaborate on Automation projects
 
 - 🤝 I’m looking for help with **Quality Assurance**
 
